@@ -3,21 +3,21 @@
         "title" : "What is Computer?",
         "sub_title" : "A computer is a machine that can be programmed to carry out sequences of operations automatically",
         "image_url" : "https://cdn.pixabay.com/photo/2021/12/05/21/39/christmas-balls-6848782_960_720.jpg",
-         "detail"    :"เครื่องคำนวณ  อิเล็กทรอนิกส์ที่สามารถทำงานคำนวณผลและเปรียบเทียบค่าตามชุดคำสั่งด้วยความเร็วสูงอย่างต่อเนื่องและอัตโนมัติ  พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ.2525 ได้ให้คำจำกัดความของคอมพิวเตอร์ไว้ค่อนข้างกะทัดรัดว่า" 
+         "detail"    :"สวัสดีครับ" 
     },
 
     {
         "title" : "What is Programmer?",
         "sub_title" : "B computer is a machine that can be programmed to carry out sequences of operations automatically",
         "image_url" : "https://cdn.pixabay.com/photo/2017/12/11/18/13/christmas-3012862_960_720.jpg",
-        "detail"    :"เครื่องคำนวณ  อิเล็กทรอนิกส์ที่สามารถทำงานคำนวณผลและเปรียบเทียบค่าตามชุดคำสั่งด้วยความเร็วสูงอย่างต่อเนื่องและอัตโนมัติ  พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ.2525 ได้ให้คำจำกัดความของคอมพิวเตอร์ไว้ค่อนข้างกะทัดรัดว่า" 
+        "detail"    :"สวัสดีครับ"  
     },
 
     {
         "title" : "What is Software?",
         "sub_title" : "C computer is a machine that can be programmed to carry out sequences of operations automatically",
         "image_url" : "https://cdn.pixabay.com/photo/2021/11/17/13/48/star-6803666_960_720.jpg",
-        "detail"    :"เครื่องคำนวณ  อิเล็กทรอนิกส์ที่สามารถทำงานคำนวณผลและเปรียบเทียบค่าตามชุดคำสั่งด้วยความเร็วสูงอย่างต่อเนื่องและอัตโนมัติ  พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ.2525 ได้ให้คำจำกัดความของคอมพิวเตอร์ไว้ค่อนข้างกะทัดรัดว่า" 
+        "detail"    :"สวัสดีครับ"  
     }
 
 ]
